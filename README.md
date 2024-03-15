@@ -83,7 +83,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/lesther-alberto-albores-grajales-0510471a8/" target="_blank">
+<a href="https://www.linkedin.com/in/lesther-albores-0510471a8/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Lesther-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
